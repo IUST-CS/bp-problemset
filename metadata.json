@@ -1,0 +1,123 @@
+{
+    "series": [
+        {
+            "id": "cpp-basics",
+            "type": "series",
+            "number": 1,
+            "chapters": [
+                1,
+                2
+            ],
+            "title": {
+                "en": "C++ Basics",
+                "fa": "مبانی سی‌پلاس‌پلاس"
+            }
+        },
+        {
+            "id": "more-flow-of-control",
+            "type": "series",
+            "number": 2,
+            "chapters": [
+                3
+            ],
+            "title": {
+                "en": "More Flow of Control",
+                "fa": "کنترل بیشتر جریان برنامه"
+            }
+        },
+        {
+            "id": "functions",
+            "type": "series",
+            "number": 3,
+            "chapters": [
+                4,
+                5
+            ],
+            "title": {
+                "en": "Functions",
+                "fa": "توابع"
+            }
+        },
+        {
+            "id": "compensation-1-3",
+            "type": "compensation",
+            "number": 1,
+            "title": {
+                "en": "Compensation 1-3",
+                "fa": "سری‌های ۱ تا ۳"
+            }
+        },
+        {
+            "id": "arrays-and-recursion",
+            "type": "series",
+            "number": 4,
+            "chapters": [
+                7,
+                14
+            ],
+            "title": {
+                "en": "Arrays and Recursion",
+                "fa": "آرایه‌ها و بازگشت"
+            }
+        },
+        {
+            "id": "strings-and-vectors",
+            "type": "series",
+            "number": 5,
+            "chapters": [
+                8
+            ],
+            "title": {
+                "en": "Strings and Vectors",
+                "fa": "رشته‌ها و بردارها"
+            }
+        },
+        {
+            "id": "compensation-1-5",
+            "type": "compensation",
+            "number": 2,
+            "title": {
+                "en": "Compensation 1-5",
+                "fa": "سری‌های ۱ تا ۵"
+            }
+        },
+        {
+            "id": "pointers-and-dynamic-arrays",
+            "type": "series",
+            "number": 6,
+            "chapters": [
+                9
+            ],
+            "title": {
+                "en": "Pointers and Dynamic Arrays",
+                "fa": "اشاره‌گرها و آرایه‌های پویا"
+            }
+        },
+        {
+            "id": "io-stream-and-exception-handling",
+            "type": "series",
+            "number": 7,
+            "chapters": [
+                6,
+                16
+            ],
+            "title": {
+                "en": "I/O Stream and Exception Handling",
+                "fa": "فایل‌ها و رسیدگی به استثنا"
+            }
+        },
+        {
+            "id": "structures-and-templates",
+            "type": "series",
+            "number": 8,
+            "chapters": [
+                10,
+                17
+            ],
+            "title": {
+                "en": "Structures and Templates",
+                "fa": "سازه‌ها و قالب‌ها"
+            }
+        }
+    ]
+}
